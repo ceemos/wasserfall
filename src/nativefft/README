@@ -1,0 +1,5 @@
+FFT using FFTW (Fastest Fourier Trasnforms in the West) libraries (C) with JNI.
+For me, it works after running build.sh from netbeans (ArchLinux 64bit, fftw 3.3 installed) 
+Needs something like "-Djava.library.path=." as a command line Option to run (set in Project Properties)
+
+No idea how to build that on Windows.
